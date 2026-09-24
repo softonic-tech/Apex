@@ -1,0 +1,6 @@
+{
+  "name": "Apex Peptides Australia | Research Peptides & Analytical Standards",
+  "description": "Precision research-grade peptides for Australian scientific laboratories and analytical research. High-purity peptides with verified HPLC and MS third-party analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
